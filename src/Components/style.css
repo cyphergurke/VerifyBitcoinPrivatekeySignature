@@ -1,0 +1,27 @@
+.signatureForm {
+    text-align: center;
+}
+
+.signatureForm input {
+    font-size: 22px;
+    width: 500px;
+    padding: 3px;
+    margin: 10px;
+    text-align: center;
+}
+
+.signatureForm button {
+    margin-top: 20px;
+    height: 30px;
+    font-size: 22px;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(0, 0, 0);
+}
+
+.signatureForm textarea {
+    width: 500px;
+    height: 100px;
+    font-size: 22px;
+}
